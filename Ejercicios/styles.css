@@ -1,0 +1,15 @@
+/*.(nombre de a clase) para class*/
+/* #(nombre del id) para id*/
+
+.titulo{
+    color: green;
+    font-size: 50px;
+    background-color: blueviolet;
+    text-align: center;
+}
+#imagen{
+    width: 300px;
+    height: 300px;
+    display: block;
+}
+

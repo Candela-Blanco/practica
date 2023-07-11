@@ -1,0 +1,28 @@
+.Titulo{
+    color: black;
+    text-align: center;
+} 
+#formulario{
+    width: 600px;
+    margin: 0 auto; /**/
+
+}
+.forma{
+    padding: 10px;
+    display: block;
+
+}
+.forma input,
+.forma textarea{
+    width: 100%;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    line-height: 1.5;
+    padding: 10px;
+}
+.forma label{
+    font-weight: bold;
+    font-size: medium;
+    text-align: left ;
+}
