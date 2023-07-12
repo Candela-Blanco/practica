@@ -1,5 +1,5 @@
 
-text= "hola me llamo, estoy programando en python bla bla bla"
+text= "hola me llamo ezequiel, estoy programando en python bla bla bla"
 
 esta_ezequiel=("ezequiel" in text) #True
 
