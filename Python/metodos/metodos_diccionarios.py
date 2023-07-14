@@ -11,7 +11,7 @@ keys=diccionario.keys()
 # devuelve todas llos values que contiene el diccionario
 valores=diccionario.values()
 
-# devielve una tupa por cada conjunto de key y value
+# devielve una tupla por cada conjunto de key y value
 items=diccionario.items()
 
 # devuelve el value de de la key dada
