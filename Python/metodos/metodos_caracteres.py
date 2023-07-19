@@ -53,5 +53,10 @@ solo_mayusculas= text.isupper()
 #función
 contar_todo= len(text)
 
+#concatenando texto
+text= "hola "
+nombre="cande"
 
-print (contar_todo)
+new= text + nombre
+
+print("hola me llamo cande \n y estoy aprendiendo python")
